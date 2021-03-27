@@ -26,7 +26,7 @@ Next, we examined the number of times each candidate was mentioned.
 The data show overall that Emmanual Macron has greater mentions across time in comparison to Marine Le Pen. Also, note the green data path that depicts tweets in which both were mentioned. It's low in comparison to the other two, suggesting that Macron's advantage cannot simply be accounted for by tweets that mention both candidates.
 
 ## Conclusion
-Overall, the data show Macron had a greater presence on Twitter as comparison to his rival, Le Pen. The correspondence between this and the outcome of the election is interesting and worth further investigation.
+Overall, the data show Macron had a greater presence on Twitter as comparison to his rival, Le Pen. The correlation between this and the outcome of the election is interesting and worth further investigation.
 
 ## Limitations and Future Directions
 This analysis is naive with respect to the content of the tweets, but according to the old addage 'all publicity is good publicity', the total number of mentions may reflect each candidate's relative standing in the electorate.
