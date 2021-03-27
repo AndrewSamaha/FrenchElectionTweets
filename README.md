@@ -16,14 +16,19 @@ Our analysis began by breaking down the number of tweets per hour during the dat
 
 ![alt text](img/alltweets.png "Tweets")
 
+There appear to be intra-day trends with the lowest frequencies of tweets happening between midnight and 5am, but otherwise no noteworthy trends across days.
+
 ## Relative Mentions
 Next, we examined the number of times each candidate was mentioned. 
 
 ![alt text](img/mentions.png "Mentions Across Time")
 
-Analysis
+The data show overall that Emmanual Macron has greater mentions across time in comparison to Marine Le Pen. Also, note the green data path that depicts tweets in which both were mentioned. It's low in comparison to the other two, suggesting that Macron's advantage cannot simply be accounted for by tweets that mention both candidates.
+
+## Conclusion
+Overall, the data show Macron had a greater presence on Twitter as comparison to his rival, Le Pen. The correspondence between this and the outcome of the election is interesting and worth further investigation.
 
 ## Limitations and Future Directions
-This analysis is naive with respect to the content of the tweets, but according to the old addage 'all news is good news', the total number of mentions may reflect each candidate's relative standing in the electorate.
+This analysis is naive with respect to the content of the tweets, but according to the old addage 'all publicity is good publicity', the total number of mentions may reflect each candidate's relative standing in the electorate.
 
-Still, with additional financial support, we could conduct a lexical and sentiment analyses of the content of the tweet, which would provider a richer picture of voter participation. Further, network analyses might reveal which messages from either party were most important and widely disseminated.
+Still, with additional financial support, we could conduct a lexical and sentiment analyses of the content of the tweet, which would provider a richer picture of voter participation. Further, network analyses might reveal which messages from either party were most important and widely disseminated. Finally, future elections should be monitored in a similar way to see if the relationship between twitter mentions and election outcome is consistent and replicable.
