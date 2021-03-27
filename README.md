@@ -7,11 +7,11 @@ Our audience is Dr. Lancaster. She is a Distinguished Professor of Sociology at 
 ## Background
 The election of 2017 is noteworthy because neither Marine Le Pen nor Emmanuel Macron won a majority in the initial round that took place on April 23rd -- Marine Le Pen represented the National Front party, and Emmanuel Macron represented the En Marche! party. 
 
-In the second round of voting that took place on May 7th, Emmanuel Macron won by a clear margin. A total of 43.6% of registered voters chose Macron whereas only 2/3rds of voters chose Le Pen.
+In the second round of voting that took place on May 7th, Emmanuel Macron won by a clear margin. A total of 43.6% of registered voters chose Macron.
 
 The data set is a collection of tweets spanning four days following the first election: April 26th through April 29. The tweets from this time period may be important to questions related to political participation because it was an especially close race. Further, the tweets might reflect shifting sentiment related to the candidates, their parties, and platforms.
 
-## EDA
+## Time-Series Analysis
 Our analysis began by breaking down the number of tweets per hour during the dates in question.
 
 ![alt text](img/alltweets.png "Tweets")
